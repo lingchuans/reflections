@@ -1,0 +1,11 @@
+1. What happends when you initialize a repository? Why do you need to do it?
+
+Answer: A .git folder is added to the folder. Doing that allows git to keep
+track of versions in the future.
+
+2. How is the staging area different from the working directory and the repository?
+What value do you think it offer?
+
+Answer: Staging area is sort of a intermediate storage which allows users to select
+the files that they want to save. It adds flexibility to version control, as users
+are allowed to choose the files they want to commit.
