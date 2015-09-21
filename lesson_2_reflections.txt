@@ -9,3 +9,7 @@ What value do you think it offer?
 Answer: Staging area is sort of a intermediate storage which allows users to select
 the files that they want to save. It adds flexibility to version control, as users
 are allowed to choose the files they want to commit.
+
+3. How can you use the staging area to make sure youhave one commit per logical change?
+
+Answer: put in only the files you have changed into the staging area before commiting.
